@@ -1,1 +1,1 @@
-My README file for 0x01-variables if else while
+random number to the variable n each time it is executed
