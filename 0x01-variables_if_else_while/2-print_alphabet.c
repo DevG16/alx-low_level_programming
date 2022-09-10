@@ -2,7 +2,7 @@
 /**
  * main - prints the alphabet in lowercase, followed by a new line
  *
- * Return: Always 0 (Success);  
+ * Return: Always 0 (Success);
  */
 int main(void)
 {
@@ -13,5 +13,5 @@ int main(void)
 		putchar(alphabet);
 	}
 	putchar('\n');
-	return (0);	
+	return (0);
 }
