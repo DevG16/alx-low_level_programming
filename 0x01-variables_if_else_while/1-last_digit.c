@@ -1,10 +1,10 @@
-#include <stdlib.h> 
+#include <stdlib.h>
 #include <time.h>
-#include <stdio.h> 
+#include <stdio.h>
 /**
  * main - prints if the number is positive, zero, or positive
  *
- * Return: Always 0 (Success); 
+ * Return: Always 0 (Success);
  */
 int main(void)
 {
@@ -25,7 +25,7 @@ int main(void)
 	}
 	else
 	{
-		printf("last digit of %d is %d and is less than 6 and not 0\n", n, l);
+		printf("last digit of %d is %d and is less than 6 and not 0\n", n, l)
 	}
 	return (0);
 }
