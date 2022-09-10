@@ -2,7 +2,7 @@
 /**
  * main - prints the alphabet in lowercase, and then in uppercase
  *
- * Return: Always 0 (Success); 
+ * Return: Always 0 (Success);
  */
 int main(void)
 {
@@ -14,7 +14,7 @@ int main(void)
 		putchar(lower_case);
 	}
 
-	for (upper_case = 'A'; upper_case <= 'Z'; upper_case++) 
+	for (upper_case = 'A'; upper_case <= 'Z'; upper_case++)
 	{
 		putchar(upper_case);
 	}
