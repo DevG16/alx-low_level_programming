@@ -2,10 +2,9 @@
 /**
  * main - Prints the lowercase alphabet in reverse, followed by a new line
  *
- * Return: Always 0 (Success); 
+ * Return: Always 0 (Success);
  */
 int main(void)
-
 {
 	char alphabet;
 
@@ -18,7 +17,3 @@ int main(void)
 
 	return (0);
 }
-
-
-
-
