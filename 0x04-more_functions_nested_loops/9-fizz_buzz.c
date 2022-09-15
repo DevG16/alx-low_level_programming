@@ -2,7 +2,7 @@
 
 /**
  * main - program that prints either number
- * fizz or buzz or fizzBuzz
+ * or fizz or buzz or fizzBuzz
  *
  * Return: returns 0
  */
@@ -32,7 +32,7 @@ int main(void)
 				printf("Buzz");
 			}
 		}
-			else
+		else
 			{
 				printf("%d ", num);
 			}
