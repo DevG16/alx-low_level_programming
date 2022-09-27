@@ -1,13 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
-
-/**
- * File: main.h 
- * Auth: Dev G 
- * description: Header file containing prototypes for all functions
- */
-
-#include <stddef.h> 
+#ifndef HEADER_FILE
+#define HEADER_FILE
 
 int _putchar(char c); 
 char *_memset(char *s, char b, unsigned int n)
